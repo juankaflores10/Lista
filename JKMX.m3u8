@@ -11,8 +11,8 @@ https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/dscs0wr97wf.m3u8?s=3aRNiA3euu7Itk
 #EXTINF:0 type="stream" channelId="-4" name="MX:Canal 5" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Canal 5
 https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/da0s08.m3u8?s=6MACvnGydd6QtCuUITgS_w&e=1617614310
 
-#EXTINF:0 type="stream" channelId="-5" name="MX:Multimedios MTY" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Multimedios MTY
-https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?uid=TsxA35KcmMODkivB0W5sffNFyP66eizh&sid=9dK8zLsxZeCXTfUnqFI9VCnlIC0Ijkil&pid=0wQ3lQ2CpUThpIPAewZ91sSDZeGKmqt2&ref=https%3A%2F%2Fwww.multimedios.com%2F&without_cookies=false&dnt=true&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1617679635141&ot=BW5PKipgeAwLJp-2k08jLQ&proto=https&pz=us
+#EXTINF:0 type="stream" channelId="-4" name="MX:Canal 5" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Canal 5
+
 
 #EXTINF:0 type="stream" channelId="-6" name="MX:Canal 28" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Canal 28
 https://6011c5681d877.streamlock.net:1936/canal28/canal28/chunklist_w1039888377.m3u8
@@ -21,7 +21,7 @@ https://6011c5681d877.streamlock.net:1936/canal28/canal28/chunklist_w1039888377.
 https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/u8wu10r51.m3u8?s=4gd8Spxy8pfGsO8JUYUZ4w&e=1617615258
 
 #EXTINF:0 type="stream" channelId="-8" name="MX:Fox Sport 2" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Fox Sport 2
-https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/13_.m3u8?token=xkU6ZZpXg_xIBrAFqNFryA&expires=1617601096
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/9szg79sf.m3u8?s=stH3SAgsP3pCQ46eHywfcQ&e=1617622986
 
 #EXTINF:0 type="stream" channelId="-9" name="MX:Fox Sport 3" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Fox Sport 3
 https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/m86og.m3u8?s=L3C8F4nBXdWpWmQGqnUSDA&e=1617615611
@@ -38,14 +38,12 @@ https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/55969ysaajd0z.m3u8?s=81rkNcGJiCY_
 #EXTINF:0 type="stream" channelId="-13" name="MX:TUDN" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", TUDN
 https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/5oaf5ei2lcv9.m3u8?s=gBKlifDXAa5i46ZEu9ea7A&e=1617617697
 
-#EXTINF:0 type="stream" channelId="-14" name="MX: La liga" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", La liga
-https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/62jqaxux01.m3u8?s=Nu7ISo5mELMYvVVyUeqV1g&e=1617617909
 
 #EXTINF:0 type="stream" channelId="-15" name="MX:Afizzionados" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Afizzionados
 https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/lzldzzd0p.m3u8?s=SBHtIpwCYD392SGlaiKGNQ&e=1617618366
 
-#EXTINF:0 type="stream" channelId="-16" name="MX:Sky Sports" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Sky Sports
-https://e6.espncdn.shop/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=avPBlt99IxLwvlz_A4931Q&expires=1617611246&rnd=
+#EXTINF:0 type="stream" channelId="-16" name="MX:Paramount" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Paramount
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/vwchy5d.m3u8?s=my_QQVfNIwGfDckY04289g&e=1617623870
 
 #EXTINF:0 type="stream" channelId="-17" name="MX:Star Action" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Star Action
 https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/4612rwe.m3u8?s=TZAV6yl17KMtOkdDbHocmA&e=1617618626
@@ -103,6 +101,22 @@ https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/mfobze65eqg.m3u8?s=X2hwzFKZ5ThL_Q
 
 #EXTINF:0 type="stream" channelId="-35" name="MX:HBO+" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", HBO+
 https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/3dgzjbpy.m3u8?s=C8APMM3IrDLT5Ha8jrALmQ&e=1617621488
+
+#EXTINF:0 type="stream" channelId="-36" name="MX:Animal Planet" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Animal Planet
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/3yyzylfek1kp3e.m3u8?s=OlXgnIRApGhJ0LGRbjnzJQ&e=1617623168
+
+#EXTINF:0 type="stream" channelId="-37" name="MX:History" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", History
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/gtj8vdvlab11nc0.m3u8?s=9eGfGjqF7i5le5yjU0peCQ&e=1617623564
+
+#EXTINF:0 type="stream" channelId="-38" name="MX:National Geo" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", National Geo
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=D21sfVxWDIODJmuWdR9dgA&e=1617623655
+
+#EXTINF:0 type="stream" channelId="-39" name="MX:Discovery" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Discovery
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/8ha8ro.m3u8?s=TnKdFpPH1Nuio3_m0NAkdQ&e=1617623721
+
+#EXTINF:0 type="stream" channelId="-40" name="MX:Nat Geo Wild" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Nat Geo Wild
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/1eelyzjwjyy8086.m3u8?s=ynU45ELeDVGzV9vu4yPyJg&e=1617623934
+
 
 
 
