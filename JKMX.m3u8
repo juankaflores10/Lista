@@ -5,5 +5,108 @@ https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/ekqf2gz.m3u8?s=h8ATsiEpGEb_oJygYg
 Azteca 7#EXTINF:0 type="stream" channelId="-2" name="MX:Azteca7" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Azteca SIETE
 https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/yv4z9a.m3u8?s=jmF7iX44C9eRlenEHRL8Og&e=1617609668
 
-#EXTINF:0 type="stream" channelId="-2" name="MX:Azteca7" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Las Estrellas
+#EXTINF:0 type="stream" channelId="-3" name="MX:Azteca7" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Las Estrellas
 https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/dscs0wr97wf.m3u8?s=3aRNiA3euu7ItkIcwJvIbQ&e=1617611678
+
+#EXTINF:0 type="stream" channelId="-4" name="MX:Canal 5" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Canal 5
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/da0s08.m3u8?s=6MACvnGydd6QtCuUITgS_w&e=1617614310
+
+#EXTINF:0 type="stream" channelId="-5" name="MX:Multimedios MTY" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Multimedios MTY
+https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?uid=TsxA35KcmMODkivB0W5sffNFyP66eizh&sid=9dK8zLsxZeCXTfUnqFI9VCnlIC0Ijkil&pid=0wQ3lQ2CpUThpIPAewZ91sSDZeGKmqt2&ref=https%3A%2F%2Fwww.multimedios.com%2F&without_cookies=false&dnt=true&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1617679635141&ot=BW5PKipgeAwLJp-2k08jLQ&proto=https&pz=us
+
+#EXTINF:0 type="stream" channelId="-6" name="MX:Canal 28" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Canal 28
+https://6011c5681d877.streamlock.net:1936/canal28/canal28/chunklist_w1039888377.m3u8
+
+#EXTINF:0 type="stream" channelId="-7" name="MX:Canal 5" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Fox Sport 1
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/u8wu10r51.m3u8?s=4gd8Spxy8pfGsO8JUYUZ4w&e=1617615258
+
+#EXTINF:0 type="stream" channelId="-8" name="MX:Fox Sport 2" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Fox Sport 2
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/13_.m3u8?token=xkU6ZZpXg_xIBrAFqNFryA&expires=1617601096
+
+#EXTINF:0 type="stream" channelId="-9" name="MX:Fox Sport 3" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Fox Sport 3
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/m86og.m3u8?s=L3C8F4nBXdWpWmQGqnUSDA&e=1617615611
+
+#EXTINF:0 type="stream" channelId="-10" name="MX:ESPN1" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", ESPN 1
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/sojfama15q3qdvv.m3u8?s=JPJZmnMH1ImhvA-67C8mSQ&e=1617615797
+
+#EXTINF:0 type="stream" channelId="-11" name="MX:ESPN2" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", ESPN 2
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/d7pu5zligobina.m3u8?s=eWT8ugYgBWZQft8_lt7W4g&e=1617615697
+
+#EXTINF:0 type="stream" channelId="-12" name="MX:ESPN3" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", ESPN 3
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/55969ysaajd0z.m3u8?s=81rkNcGJiCY_PT2E_y3Srw&e=1617616178
+
+#EXTINF:0 type="stream" channelId="-13" name="MX:TUDN" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", TUDN
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/5oaf5ei2lcv9.m3u8?s=gBKlifDXAa5i46ZEu9ea7A&e=1617617697
+
+#EXTINF:0 type="stream" channelId="-14" name="MX: La liga" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", La liga
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/62jqaxux01.m3u8?s=Nu7ISo5mELMYvVVyUeqV1g&e=1617617909
+
+#EXTINF:0 type="stream" channelId="-15" name="MX:Afizzionados" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Afizzionados
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/lzldzzd0p.m3u8?s=SBHtIpwCYD392SGlaiKGNQ&e=1617618366
+
+#EXTINF:0 type="stream" channelId="-16" name="MX:Sky Sports" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Sky Sports
+https://e6.espncdn.shop/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=avPBlt99IxLwvlz_A4931Q&expires=1617611246&rnd=
+
+#EXTINF:0 type="stream" channelId="-17" name="MX:Star Action" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Star Action
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/4612rwe.m3u8?s=TZAV6yl17KMtOkdDbHocmA&e=1617618626
+
+#EXTINF:0 type="stream" channelId="-18" name="HBO MUNDI3" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", HBO MUNDI
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/8nviuzdhm5jnu.m3u8?s=XZkAkuV00c5Vymd_32uXzQ&e=1617618844
+
+#EXTINF:0 type="stream" channelId="-19" name="MX: HBO Xtreme" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", HBO xtreme
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/way71f4yp5a3.m3u8?s=TaWM7VGjA3QoNg9UxDuLsw&e=1617618917
+
+#EXTINF:0 type="stream" channelId="-20" name="MX:TNT" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", TNT
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/glaldsq.m3u8?s=htY2ujxYj1Tf6rgZ_t5OfA&e=1617619090
+
+#EXTINF:0 type="stream" channelId="-21" name="MX:Warner" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Warner
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/j5uwhfb7w5c.m3u8?s=w9ybDWcdqk9GrMqCEPsEyA&e=1617619197
+
+#EXTINF:0 type="stream" channelId="-22" name="Sony" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Sony
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/oc2v2i6j.m3u8?s=PoYQsUtaalU22AS3j8zL5A&e=1617619355
+
+#EXTINF:0 type="stream" channelId="-23" name="MX:SPACE" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", SPACE
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/me4gtt8v3fmket.m3u8?s=zOwwuKKpLZo1GwebW_gBZA&e=1617619479
+
+#EXTINF:0 type="stream" channelId="-24" name="MX:FX" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", FX
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/3cuvpp5n.m3u8?s=kygrsQfzP4fCMLey1rcRdQ&e=1617619541
+
+#EXTINF:0 type="stream" channelId="-25" name="MX:FXM" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", FXM
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/jpizlg1osqocv.m3u8?s=0XVFfUBRJlfHkXWNEyNBYg&e=1617619685
+
+#EXTINF:0 type="stream" channelId="-26" name="MX:Cinecanal" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Cinecanal
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/dssgf6jl0d.m3u8?s=Qk2uHPufN6PBAyL0Htym1g&e=1617619819
+
+#EXTINF:0 type="stream" channelId="-27" name="MX:Studio Universal" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Studio Universal
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=08PhflKemOnDChbjXv34sg&e=1617620381
+
+#EXTINF:0 type="stream" channelId="-28" name="MX:Universal" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Universal
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=41A1fiZd2hUZAMVZ1d2BeQ&e=1617620591
+
+#EXTINF:0 type="stream" channelId="-29" name="MX:Golden" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Golden
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/lnxn10nmtnl5.m3u8?s=peDVHBf82jcurs8nSkm8fA&e=1617620690
+
+#EXTINF:0 type="stream" channelId="-30" name="MX:Golden Edge" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Golden Edge
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/aef8t7z.m3u8?s=7-hiWeQv3T2GetI5tbGkPQ&e=1617620921
+
+#EXTINF:0 type="stream" channelId="-31" name="MX:Cinemax" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Cinemax
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=4AJ1EO8o9eXxLS1puZfxeQ&e=1617621028
+
+#EXTINF:0 type="stream" channelId="-32" name="MX:HBO" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", HBO
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=g6xkkqdcR31Dz2Cw_VttQg&e=1617621290
+
+#EXTINF:0 type="stream" channelId="-33" name="MX:HBO2" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", HBO 2
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/x5r58d0omlmqph.m3u8?s=PNF4ZQaLtzEomaJxhiWCTg&e=1617621362
+
+#EXTINF:0 type="stream" channelId="-34" name="MX:HBO FAMILY" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", HBO FAMILY
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/mfobze65eqg.m3u8?s=X2hwzFKZ5ThL_QQkXz1QDQ&e=1617621428
+
+#EXTINF:0 type="stream" channelId="-35" name="MX:HBO+" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", HBO+
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/3dgzjbpy.m3u8?s=C8APMM3IrDLT5Ha8jrALmQ&e=1617621488
+
+
+
+
+
+
+
